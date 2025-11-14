@@ -1,0 +1,2 @@
+V(X)={Akiyama,Hirasawa,Hitori,Ijichi,Ikuyo,Kikuri,Kotobuki,Nakano,Tainaka,Yamada}
+E(X)={(Akiyama,Hirasawa),(Akiyama,Kotobuki),(Akiyama,Tainaka),(Akiyama,Yamada),(Hirasawa,Hitori),(Hitori,Ijichi),(Hitori,Ikuyo),(Hitori,Kikuri),(Hitori,Yamada),(Ijichi,Yamada),(Ikuyo,Yamada),(Kikuri,Kotobuki),(Kikuri,Nakano),(Kikuri,Yamada),(Nakano,Yamada)}

@@ -1,0 +1,10 @@
+Ikuyo->Hitori->Yamada->\
+Hitori->Yamada->Kikuri->Ikuyo->Ijichi->Hirasawa->\
+Yamada->Hitori->Ikuyo->Ijichi->Kikuri->Akiyama->Nakano->\
+Ijichi->Hitori->Yamada->\
+Kikuri->Yamada->Hitori->Nakano->Kotobuki->\
+Nakano->Kikuri->Yamada->\
+Hirasawa->Akiyama->Hitori->\
+Akiyama->Tainaka->Hirasawa->Yamada->Kotobuki->\
+Tainaka->Akiyama->\
+Kotobuki->Akiyama->Kikuri->\

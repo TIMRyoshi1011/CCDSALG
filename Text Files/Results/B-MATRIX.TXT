@@ -1,0 +1,6 @@
+           Ikuyo  Hitori  Yamada  Ijichi  Kikuri
+   Ikuyo       0       1       1       0       0
+  Hitori       1       0       1       1       1
+  Yamada       1       1       0       1       1
+  Ijichi       0       1       1       0       0
+  Kikuri       0       1       1       0       0

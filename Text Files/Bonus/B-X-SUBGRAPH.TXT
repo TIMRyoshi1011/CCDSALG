@@ -1,0 +1,26 @@
+Akiyama -
+Hirasawa -
+Hitori +
+Ijichi +
+Ikuyo +
+Kikuri +
+Kotobuki -
+Nakano -
+Tainaka -
+Yamada +
+(Akiyama,Hirasawa) -
+(Akiyama,Kotobuki) -
+(Akiyama,Tainaka) -
+(Akiyama,Yamada) -
+(Hirasawa,Hitori) -
+(Hitori,Ijichi) +
+(Hitori,Ikuyo) +
+(Hitori,Kikuri) +
+(Hitori,Yamada) +
+(Ijichi,Yamada) +
+(Ikuyo,Yamada) +
+(Kikuri,Kotobuki) -
+(Kikuri,Nakano) -
+(Kikuri,Yamada) +
+(Nakano,Yamada) -
+X is not a subgraph of B.

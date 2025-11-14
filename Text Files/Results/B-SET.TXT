@@ -1,0 +1,2 @@
+V(B)={Hitori,Ijichi,Ikuyo,Kikuri,Yamada}
+E(B)={(Hitori,Ijichi),(Hitori,Ikuyo),(Hitori,Kikuri),(Hitori,Yamada),(Ijichi,Yamada),(Ikuyo,Yamada),(Kikuri,Yamada)}

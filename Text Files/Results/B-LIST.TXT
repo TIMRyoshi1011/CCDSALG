@@ -1,0 +1,5 @@
+Ikuyo->Hitori->Yamada->\
+Hitori->Yamada->Kikuri->Ikuyo->Ijichi->\
+Yamada->Hitori->Ikuyo->Ijichi->Kikuri->\
+Ijichi->Hitori->Yamada->\
+Kikuri->Yamada->Hitori->\

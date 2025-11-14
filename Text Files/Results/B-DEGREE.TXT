@@ -1,0 +1,5 @@
+Hitori 4
+Ijichi 2
+Ikuyo 2
+Kikuri 2
+Yamada 4

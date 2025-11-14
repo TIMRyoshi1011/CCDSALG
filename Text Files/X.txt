@@ -1,0 +1,11 @@
+10
+Ikuyo Hitori Yamada -1
+Hitori Yamada Kikuri Ikuyo Ijichi Hirasawa - 1
+Yamada Hitori Ikuyo Ijichi Kikuri Akiyama Nakano -1
+Ijichi Hitori Yamada -1
+Kikuri Yamada Hitori Nakano Kotobuki -1
+Nakano Kikuri Yamada -1
+Hirasawa Akiyama Hitori -1
+Akiyama Tainaka Hirasawa Yamada Kotobuki -1
+Tainaka Akiyama -1
+Kotobuki Akiyama Kikuri -1

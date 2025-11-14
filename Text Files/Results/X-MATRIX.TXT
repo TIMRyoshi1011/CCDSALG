@@ -1,0 +1,11 @@
+               Ikuyo    Hitori    Yamada    Ijichi    Kikuri    Nakano  Hirasawa   Akiyama   Tainaka  Kotobuki
+     Ikuyo         0         1         1         0         0         0         0         0         0         0
+    Hitori         1         0         1         1         1         0         1         0         0         0
+    Yamada         1         1         0         1         1         1         0         1         0         0
+    Ijichi         0         1         1         0         0         0         0         0         0         0
+    Kikuri         0         1         1         0         0         1         0         0         0         1
+    Nakano         0         0         1         0         1         0         0         0         0         0
+  Hirasawa         0         1         0         0         0         0         0         1         0         0
+   Akiyama         0         0         1         0         0         0         1         0         1         1
+   Tainaka         0         0         0         0         0         0         0         1         0         0
+  Kotobuki         0         0         0         0         1         0         0         1         0         0

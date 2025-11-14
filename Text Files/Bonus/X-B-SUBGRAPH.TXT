@@ -1,0 +1,13 @@
+Hitori +
+Ijichi +
+Ikuyo +
+Kikuri +
+Yamada +
+(Hitori,Ijichi) +
+(Hitori,Ikuyo) +
+(Hitori,Kikuri) +
+(Hitori,Yamada) +
+(Ijichi,Yamada) +
+(Ikuyo,Yamada) +
+(Kikuri,Yamada) +
+B is a subgraph of X.
