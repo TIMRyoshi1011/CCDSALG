@@ -1,3 +1,3 @@
-# Data Structures
+# CCDSALG Major Course Output 
 
-On how they are implemented in C
+Contains the other files of Major Course Output such as the tests and specs
