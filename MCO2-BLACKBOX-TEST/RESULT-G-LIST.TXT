@@ -1,0 +1,11 @@
++----------+------------------------+-------------------------+
+|          |              EXPECTED  |                ACTUAL   |
++----------+------------------------+-------------------------+
+| [    1]  |  Diana->Hal->Bruce->Clark->\  |  Diana->Hal->Bruce->Clark->\   |
+| [    2]  |       Bruce->Diana->\  |       Bruce->Diana->\   |
+| [    3]  |  Hal->Clark->Diana->\  |  Hal->Clark->Diana->\   |
+| [    4]  |  Clark->Hal->Diana->\  |  Clark->Hal->Diana->\   |
++----------+------------------------+-------------------------+
+
+BLACK BOX TEST RESULT(S):
+           Differences = 0.

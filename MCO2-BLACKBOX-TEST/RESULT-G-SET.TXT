@@ -1,0 +1,9 @@
++----------+------------------------+-------------------------+
+|          |              EXPECTED  |                ACTUAL   |
++----------+------------------------+-------------------------+
+| [    1]  |  V(G)={Bruce,Clark,Diana,Hal}  |  V(G)={Bruce,Clark,Diana,Hal}   |
+| [    2]  |  E(G)={(Bruce,Diana),(Clark,Diana),(Clark,Hal),(Diana,Hal)}  |  E(G)={(Bruce,Diana),(Clark,Diana),(Clark,Hal),(Diana,Hal)}   |
++----------+------------------------+-------------------------+
+
+BLACK BOX TEST RESULT(S):
+           Differences = 0.
